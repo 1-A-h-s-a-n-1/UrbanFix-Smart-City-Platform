@@ -1,1 +1,1 @@
-"Initial setup for UrbanFix platform."
+Initial setup for UrbanFix platform
